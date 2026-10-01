@@ -14,6 +14,7 @@ Aprender e aplicar conceitos práticos de linguagem Python para automatizar roti
 
 * **Aula 1:** Introdução à automação de processos e controle de mouse/teclado.
 * **Aula 2:** Introdução à análise de dados a partir de tabelas.
+* **Aula 2:** Criação de um ChatBot de IA com OpenAI + Gemini.
 ---
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
@@ -23,5 +24,7 @@ Aprender e aplicar conceitos práticos de linguagem Python para automatizar roti
 * `pyautogui` — Automação de comandos do mouse e teclado
 * `openpyxl` — Leitura e escrita em arquivos do Excel
 * `plotly` — Criação de gráficos a partir de tabelas
-  
+* `streamlit` — Criação de sites interativos de forma simples e rápida
+* `openai` — Utilizar Inteligências Artificiais diretamente no código
+* `dotenv` — Criar variáveis de ambiente para tornar o código mais seguro
 ---
