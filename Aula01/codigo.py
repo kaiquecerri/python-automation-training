@@ -2,7 +2,7 @@ import pyautogui
 import time
 import pandas
 
-pyautogui.PAUSE = 0.3
+pyautogui.PAUSE = 1
 #VARIAVEIS
 link = "https://dlp.hashtagtreinamentos.com/python/intensivao/login"
 email = "email@email.com"
